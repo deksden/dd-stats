@@ -10,6 +10,16 @@ The project gathers commit-level activity from GitHub and local clones, exports 
 
 Private repositories stay masked in the dashboard as `project N`.
 
+## Preview
+
+Combined `2025-2026` screen:
+
+![Combined dashboard preview](./assets/screenshots/overview-light.png)
+
+Year detail screen in dark theme:
+
+![2025 dashboard preview](./assets/screenshots/year-2025-dark.png)
+
 ## Quick Start
 
 ```bash
