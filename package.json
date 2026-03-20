@@ -1,0 +1,13 @@
+{
+  "name": "dd-stats",
+  "description": "Deksden GitHub activity collector, SQLite snapshot exporter, and static dashboard.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/fetch-github-activity.mjs",
+    "sqlite": "node scripts/export-activity-sqlite.mjs",
+    "dashboard": "node scripts/build-dashboard.mjs",
+    "build": "node scripts/fetch-github-activity.mjs --years 2025 2026 && node scripts/build-dashboard.mjs",
+    "serve": "python3 -m http.server 4173 -d dist"
+  }
+}

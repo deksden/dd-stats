@@ -1,0 +1,12 @@
+{
+  "timezone": "Europe/Kaliningrad",
+  "years": [2025, 2026],
+  "localRepoRoots": [
+    "/Users/deksden/Documents/_Projects",
+    "/Users/deksden/Documents/GitHub"
+  ],
+  "includeRepos": [],
+  "excludeRepos": [],
+  "fetchRemotes": true,
+  "cloneMissingRepos": true
+}

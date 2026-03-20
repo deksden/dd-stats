@@ -1,0 +1,3948 @@
+{
+  "year": 2026,
+  "generatedAt": "2026-03-20T20:10:06.315Z",
+  "timezone": "Europe/Kaliningrad",
+  "viewer": {
+    "login": "deksden",
+    "name": "Denis Kiselev",
+    "url": "https://github.com/deksden"
+  },
+  "methodology": {
+    "repositoryDiscovery": "All repositories from the viewer account, all accessible organizations, and matching local GitHub remotes, with yearly inclusion only when author-matched commits exist.",
+    "commitSource": "Local git clone with `git log --all --numstat` when available, otherwise fallback to GitHub GraphQL history on the default branch.",
+    "languageMethod": "GitHub Linguist repository language mix weighted by yearly line churn (additions + deletions) in the repository.",
+    "workflowMethod": "GitHub Actions workflow runs filtered by actor login and created_at inside the selected year range."
+  },
+  "scope": {
+    "viewerLogin": "deksden",
+    "organizations": [
+      "objcio",
+      "github-beta",
+      "tennis-arena-nsk",
+      "Diana-cosmetology",
+      "goodcar-rent",
+      "express-knex",
+      "biomatrix-pro",
+      "deksden-com"
+    ],
+    "repositoryOwners": [
+      "deksden",
+      "objcio",
+      "github-beta",
+      "tennis-arena-nsk",
+      "Diana-cosmetology",
+      "goodcar-rent",
+      "express-knex",
+      "biomatrix-pro",
+      "deksden-com"
+    ],
+    "candidateRepositories": 279,
+    "examinedRepositories": 22,
+    "skippedByPushedAt": 257,
+    "skippedByProbe": 3,
+    "contributionGraphRepositories": [
+      "deksden-com/deksden-com",
+      "deksden-com/feedback-360"
+    ]
+  },
+  "yearRange": {
+    "since": "2025-12-31T22:00:00.000Z",
+    "until": "2026-03-20T20:07:56.338Z",
+    "isCurrentYear": true
+  },
+  "summary": {
+    "projectsWorkedOn": 10,
+    "publicProjects": 2,
+    "privateProjects": 8,
+    "commits": 1160,
+    "discoveredCommitContributions": 33,
+    "activeDays": 39,
+    "longestStreak": 27,
+    "additions": 507148,
+    "deletions": 128506,
+    "netLines": 378642,
+    "averageCommitsPerActiveDay": 29.74,
+    "workflowRuns": 1074,
+    "workflowSuccess": 791,
+    "workflowFailure": 282,
+    "workflowCancelled": 1,
+    "workflowSkipped": 0,
+    "workflowOther": 0,
+    "busiestDay": {
+      "date": "2026-01-09",
+      "commits": 99,
+      "additions": 13081,
+      "deletions": 10374
+    },
+    "busiestMonth": {
+      "month": "2026-01",
+      "commits": 1054,
+      "additions": 280414,
+      "deletions": 123806,
+      "activeDays": 27,
+      "workflowRuns": 0
+    },
+    "yearStartedAt": "2025-12-31T22:00:00.000Z",
+    "yearEndedAt": "2026-03-20T20:07:56.338Z",
+    "timezone": "Europe/Kaliningrad"
+  },
+  "chronology": [
+    {
+      "date": "2026-01-01",
+      "commits": 13,
+      "additions": 4821,
+      "deletions": 2124
+    },
+    {
+      "date": "2026-01-02",
+      "commits": 13,
+      "additions": 5151,
+      "deletions": 11097
+    },
+    {
+      "date": "2026-01-03",
+      "commits": 19,
+      "additions": 4620,
+      "deletions": 557
+    },
+    {
+      "date": "2026-01-04",
+      "commits": 14,
+      "additions": 1907,
+      "deletions": 230
+    },
+    {
+      "date": "2026-01-05",
+      "commits": 29,
+      "additions": 6317,
+      "deletions": 1205
+    },
+    {
+      "date": "2026-01-06",
+      "commits": 33,
+      "additions": 8970,
+      "deletions": 3570
+    },
+    {
+      "date": "2026-01-07",
+      "commits": 86,
+      "additions": 13184,
+      "deletions": 2655
+    },
+    {
+      "date": "2026-01-08",
+      "commits": 50,
+      "additions": 5031,
+      "deletions": 3045
+    },
+    {
+      "date": "2026-01-09",
+      "commits": 99,
+      "additions": 13081,
+      "deletions": 10374
+    },
+    {
+      "date": "2026-01-10",
+      "commits": 53,
+      "additions": 12786,
+      "deletions": 3270
+    },
+    {
+      "date": "2026-01-11",
+      "commits": 68,
+      "additions": 18083,
+      "deletions": 3617
+    },
+    {
+      "date": "2026-01-12",
+      "commits": 30,
+      "additions": 6469,
+      "deletions": 2098
+    },
+    {
+      "date": "2026-01-13",
+      "commits": 4,
+      "additions": 204,
+      "deletions": 92
+    },
+    {
+      "date": "2026-01-14",
+      "commits": 88,
+      "additions": 19723,
+      "deletions": 3350
+    },
+    {
+      "date": "2026-01-15",
+      "commits": 61,
+      "additions": 9376,
+      "deletions": 5158
+    },
+    {
+      "date": "2026-01-16",
+      "commits": 54,
+      "additions": 12417,
+      "deletions": 2751
+    },
+    {
+      "date": "2026-01-17",
+      "commits": 39,
+      "additions": 6887,
+      "deletions": 995
+    },
+    {
+      "date": "2026-01-18",
+      "commits": 54,
+      "additions": 7776,
+      "deletions": 1455
+    },
+    {
+      "date": "2026-01-19",
+      "commits": 43,
+      "additions": 66661,
+      "deletions": 40119
+    },
+    {
+      "date": "2026-01-20",
+      "commits": 23,
+      "additions": 7229,
+      "deletions": 19582
+    },
+    {
+      "date": "2026-01-21",
+      "commits": 23,
+      "additions": 6147,
+      "deletions": 924
+    },
+    {
+      "date": "2026-01-22",
+      "commits": 22,
+      "additions": 7970,
+      "deletions": 1372
+    },
+    {
+      "date": "2026-01-23",
+      "commits": 33,
+      "additions": 7544,
+      "deletions": 803
+    },
+    {
+      "date": "2026-01-24",
+      "commits": 18,
+      "additions": 4001,
+      "deletions": 427
+    },
+    {
+      "date": "2026-01-25",
+      "commits": 22,
+      "additions": 5484,
+      "deletions": 604
+    },
+    {
+      "date": "2026-01-26",
+      "commits": 46,
+      "additions": 16611,
+      "deletions": 1706
+    },
+    {
+      "date": "2026-01-27",
+      "commits": 17,
+      "additions": 1964,
+      "deletions": 626
+    },
+    {
+      "date": "2026-02-05",
+      "commits": 2,
+      "additions": 86,
+      "deletions": 29
+    },
+    {
+      "date": "2026-02-08",
+      "commits": 1,
+      "additions": 2,
+      "deletions": 0
+    },
+    {
+      "date": "2026-02-27",
+      "commits": 9,
+      "additions": 10327,
+      "deletions": 160
+    },
+    {
+      "date": "2026-02-28",
+      "commits": 26,
+      "additions": 8425,
+      "deletions": 746
+    },
+    {
+      "date": "2026-03-01",
+      "commits": 8,
+      "additions": 1277,
+      "deletions": 540
+    },
+    {
+      "date": "2026-03-03",
+      "commits": 9,
+      "additions": 5294,
+      "deletions": 1
+    },
+    {
+      "date": "2026-03-04",
+      "commits": 3,
+      "additions": 2711,
+      "deletions": 18
+    },
+    {
+      "date": "2026-03-14",
+      "commits": 1,
+      "additions": 141,
+      "deletions": 0
+    },
+    {
+      "date": "2026-03-16",
+      "commits": 27,
+      "additions": 184576,
+      "deletions": 1621
+    },
+    {
+      "date": "2026-03-17",
+      "commits": 9,
+      "additions": 13362,
+      "deletions": 1573
+    },
+    {
+      "date": "2026-03-19",
+      "commits": 3,
+      "additions": 491,
+      "deletions": 2
+    },
+    {
+      "date": "2026-03-20",
+      "commits": 8,
+      "additions": 42,
+      "deletions": 10
+    }
+  ],
+  "months": [
+    {
+      "month": "2026-01",
+      "commits": 1054,
+      "additions": 280414,
+      "deletions": 123806,
+      "activeDays": 27,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-02",
+      "commits": 38,
+      "additions": 18840,
+      "deletions": 935,
+      "activeDays": 4,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-03",
+      "commits": 68,
+      "additions": 207894,
+      "deletions": 3765,
+      "activeDays": 8,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-04",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-05",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-06",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-07",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-08",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-09",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-10",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-11",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    },
+    {
+      "month": "2026-12",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0,
+      "activeDays": 0,
+      "workflowRuns": 0
+    }
+  ],
+  "weekdays": [
+    {
+      "weekday": "Mon",
+      "commits": 175,
+      "additions": 280634,
+      "deletions": 46749
+    },
+    {
+      "weekday": "Tue",
+      "commits": 95,
+      "additions": 37023,
+      "deletions": 25444
+    },
+    {
+      "weekday": "Wed",
+      "commits": 200,
+      "additions": 41765,
+      "deletions": 6947
+    },
+    {
+      "weekday": "Thu",
+      "commits": 151,
+      "additions": 27775,
+      "deletions": 11730
+    },
+    {
+      "weekday": "Fri",
+      "commits": 216,
+      "additions": 48562,
+      "deletions": 25195
+    },
+    {
+      "weekday": "Sat",
+      "commits": 156,
+      "additions": 36860,
+      "deletions": 5995
+    },
+    {
+      "weekday": "Sun",
+      "commits": 167,
+      "additions": 34529,
+      "deletions": 6446
+    }
+  ],
+  "hours": [
+    {
+      "hour": 0,
+      "commits": 68,
+      "additions": 23982,
+      "deletions": 3904
+    },
+    {
+      "hour": 1,
+      "commits": 37,
+      "additions": 14084,
+      "deletions": 15612
+    },
+    {
+      "hour": 2,
+      "commits": 14,
+      "additions": 3906,
+      "deletions": 792
+    },
+    {
+      "hour": 3,
+      "commits": 13,
+      "additions": 6868,
+      "deletions": 1107
+    },
+    {
+      "hour": 4,
+      "commits": 5,
+      "additions": 969,
+      "deletions": 134
+    },
+    {
+      "hour": 5,
+      "commits": 2,
+      "additions": 3960,
+      "deletions": 210
+    },
+    {
+      "hour": 6,
+      "commits": 21,
+      "additions": 3649,
+      "deletions": 1284
+    },
+    {
+      "hour": 7,
+      "commits": 23,
+      "additions": 12870,
+      "deletions": 1776
+    },
+    {
+      "hour": 8,
+      "commits": 26,
+      "additions": 7126,
+      "deletions": 1282
+    },
+    {
+      "hour": 9,
+      "commits": 39,
+      "additions": 150577,
+      "deletions": 2178
+    },
+    {
+      "hour": 10,
+      "commits": 33,
+      "additions": 15313,
+      "deletions": 11643
+    },
+    {
+      "hour": 11,
+      "commits": 61,
+      "additions": 21310,
+      "deletions": 8306
+    },
+    {
+      "hour": 12,
+      "commits": 64,
+      "additions": 15622,
+      "deletions": 2841
+    },
+    {
+      "hour": 13,
+      "commits": 92,
+      "additions": 55388,
+      "deletions": 4679
+    },
+    {
+      "hour": 14,
+      "commits": 68,
+      "additions": 18764,
+      "deletions": 39171
+    },
+    {
+      "hour": 15,
+      "commits": 42,
+      "additions": 5258,
+      "deletions": 1772
+    },
+    {
+      "hour": 16,
+      "commits": 54,
+      "additions": 8437,
+      "deletions": 1687
+    },
+    {
+      "hour": 17,
+      "commits": 63,
+      "additions": 10300,
+      "deletions": 2876
+    },
+    {
+      "hour": 18,
+      "commits": 63,
+      "additions": 11777,
+      "deletions": 5568
+    },
+    {
+      "hour": 19,
+      "commits": 49,
+      "additions": 13194,
+      "deletions": 2832
+    },
+    {
+      "hour": 20,
+      "commits": 55,
+      "additions": 9911,
+      "deletions": 2556
+    },
+    {
+      "hour": 21,
+      "commits": 87,
+      "additions": 30089,
+      "deletions": 3605
+    },
+    {
+      "hour": 22,
+      "commits": 84,
+      "additions": 33568,
+      "deletions": 7136
+    },
+    {
+      "hour": 23,
+      "commits": 97,
+      "additions": 30226,
+      "deletions": 5555
+    }
+  ],
+  "languages": [
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "weightedLines": 579861,
+      "repoCount": 7
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "weightedLines": 39968,
+      "repoCount": 1
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "weightedLines": 9685,
+      "repoCount": 6
+    },
+    {
+      "name": "MDX",
+      "color": "#fcb32c",
+      "weightedLines": 2658,
+      "repoCount": 2
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "weightedLines": 1487,
+      "repoCount": 3
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "weightedLines": 901,
+      "repoCount": 2
+    },
+    {
+      "name": "PLpgSQL",
+      "color": "#336790",
+      "weightedLines": 244,
+      "repoCount": 2
+    }
+  ],
+  "workflows": {
+    "total": 1074,
+    "success": 791,
+    "failure": 282,
+    "cancelled": 1,
+    "skipped": 0,
+    "other": 0,
+    "byMonth": [
+      {
+        "month": "2026-01",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 548
+      },
+      {
+        "month": "2026-02",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 77
+      },
+      {
+        "month": "2026-03",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 436
+      },
+      {
+        "month": "2026-04",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-05",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-06",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-07",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-08",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-09",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-10",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-11",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2026-12",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 0
+      },
+      {
+        "month": "2025-12",
+        "commits": 0,
+        "additions": 0,
+        "deletions": 0,
+        "activeDays": 0,
+        "workflowRuns": 13
+      }
+    ],
+    "byEvent": [
+      {
+        "event": "push",
+        "count": 985
+      },
+      {
+        "event": "pull_request",
+        "count": 80
+      },
+      {
+        "event": "workflow_dispatch",
+        "count": 6
+      },
+      {
+        "event": "schedule",
+        "count": 3
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "deksden-com/course-agents101",
+      "owner": "deksden-com",
+      "name": "course-agents101",
+      "displayName": "course-agents101",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/course-agents101",
+      "description": "Agents101 course",
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/course-agents101",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-02-08T08:51:37Z",
+      "updatedAt": "2026-02-08T08:52:39Z",
+      "pushedAt": "2026-02-08T08:52:36Z",
+      "metrics": {
+        "commits": 1,
+        "activeDays": 1,
+        "longestStreak": 1,
+        "additions": 2,
+        "deletions": 0,
+        "netLines": 2,
+        "changedFiles": 1,
+        "firstCommitAt": "2026-02-08T08:52:36Z",
+        "lastCommitAt": "2026-02-08T08:52:36Z",
+        "averageCommitsPerActiveDay": 1
+      },
+      "chronology": [
+        {
+          "date": "2026-02-08",
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-02",
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0,
+          "activeDays": 1
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sun",
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 9,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 10,
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "languages": [],
+      "workflows": {
+        "total": 0,
+        "success": 0,
+        "failure": 0,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [],
+        "byEvent": [],
+        "byWorkflow": []
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden-com/dd-admin",
+      "owner": "deksden-com",
+      "name": "dd-admin",
+      "displayName": "dd-admin",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/dd-admin",
+      "description": "dd-admin app for deksden.com",
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/dd-admin",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-02-27T21:22:00Z",
+      "updatedAt": "2026-02-28T23:04:40Z",
+      "pushedAt": "2026-02-28T23:04:37Z",
+      "metrics": {
+        "commits": 14,
+        "activeDays": 3,
+        "longestStreak": 3,
+        "additions": 7723,
+        "deletions": 1169,
+        "netLines": 6554,
+        "changedFiles": 115,
+        "firstCommitAt": "2026-02-27T21:22:01Z",
+        "lastCommitAt": "2026-02-28T23:04:35Z",
+        "averageCommitsPerActiveDay": 4.67
+      },
+      "chronology": [
+        {
+          "date": "2026-02-27",
+          "commits": 1,
+          "additions": 141,
+          "deletions": 0
+        },
+        {
+          "date": "2026-02-28",
+          "commits": 9,
+          "additions": 6485,
+          "deletions": 649
+        },
+        {
+          "date": "2026-03-01",
+          "commits": 4,
+          "additions": 1097,
+          "deletions": 520
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-02",
+          "commits": 10,
+          "additions": 6626,
+          "deletions": 649,
+          "activeDays": 2
+        },
+        {
+          "month": "2026-03",
+          "commits": 4,
+          "additions": 1097,
+          "deletions": 520,
+          "activeDays": 1
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 1,
+          "additions": 141,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 9,
+          "additions": 6485,
+          "deletions": 649
+        },
+        {
+          "weekday": "Sun",
+          "commits": 4,
+          "additions": 1097,
+          "deletions": 520
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 3,
+          "additions": 815,
+          "deletions": 245
+        },
+        {
+          "hour": 1,
+          "commits": 1,
+          "additions": 282,
+          "deletions": 275
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 4,
+          "additions": 2254,
+          "deletions": 3
+        },
+        {
+          "hour": 8,
+          "commits": 1,
+          "additions": 476,
+          "deletions": 13
+        },
+        {
+          "hour": 9,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 10,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 1,
+          "additions": 54,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 1,
+          "additions": 2278,
+          "deletions": 630
+        },
+        {
+          "hour": 23,
+          "commits": 3,
+          "additions": 1564,
+          "deletions": 3
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 138802,
+          "ratio": 0.9722547158577503,
+          "estimatedWeightedLines": 8645
+        },
+        {
+          "name": "PLpgSQL",
+          "color": "#336790",
+          "bytes": 3915,
+          "ratio": 0.027423071804319046,
+          "estimatedWeightedLines": 244
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 46,
+          "ratio": 0.00032221233793069634,
+          "estimatedWeightedLines": 3
+        }
+      ],
+      "workflows": {
+        "total": 0,
+        "success": 0,
+        "failure": 0,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [],
+        "byEvent": [],
+        "byWorkflow": []
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden-com/dd-content",
+      "owner": "deksden-com",
+      "name": "dd-content",
+      "displayName": "dd-content",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/dd-content",
+      "description": "Content for deksden.com",
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/dd-content",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-02-27T20:10:55Z",
+      "updatedAt": "2026-02-28T22:58:20Z",
+      "pushedAt": "2026-02-28T22:58:17Z",
+      "metrics": {
+        "commits": 9,
+        "activeDays": 3,
+        "longestStreak": 3,
+        "additions": 276,
+        "deletions": 26,
+        "netLines": 250,
+        "changedFiles": 28,
+        "firstCommitAt": "2026-02-27T20:10:55Z",
+        "lastCommitAt": "2026-02-28T22:58:16Z",
+        "averageCommitsPerActiveDay": 3
+      },
+      "chronology": [
+        {
+          "date": "2026-02-27",
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        },
+        {
+          "date": "2026-02-28",
+          "commits": 4,
+          "additions": 94,
+          "deletions": 6
+        },
+        {
+          "date": "2026-03-01",
+          "commits": 4,
+          "additions": 180,
+          "deletions": 20
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-02",
+          "commits": 5,
+          "additions": 96,
+          "deletions": 6,
+          "activeDays": 2
+        },
+        {
+          "month": "2026-03",
+          "commits": 4,
+          "additions": 180,
+          "deletions": 20,
+          "activeDays": 1
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 4,
+          "additions": 94,
+          "deletions": 6
+        },
+        {
+          "weekday": "Sun",
+          "commits": 4,
+          "additions": 180,
+          "deletions": 20
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 4,
+          "additions": 180,
+          "deletions": 20
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 3,
+          "additions": 90,
+          "deletions": 2
+        },
+        {
+          "hour": 8,
+          "commits": 1,
+          "additions": 4,
+          "deletions": 4
+        },
+        {
+          "hour": 9,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 10,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "languages": [],
+      "workflows": {
+        "total": 0,
+        "success": 0,
+        "failure": 0,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [],
+        "byEvent": [],
+        "byWorkflow": []
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden-com/dd-flow",
+      "owner": "deksden-com",
+      "name": "dd-flow",
+      "displayName": "dd-flow",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/dd-flow",
+      "description": "dd-flow agentic orchestrator based on Deksden's methodology for flow and memorybank",
+      "homepageUrl": "https://dd-flow-site.vercel.app",
+      "repoPath": "/Users/deksden/Documents/_Projects/dd-flow",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-01-16T09:55:37Z",
+      "updatedAt": "2026-01-27T12:41:18Z",
+      "pushedAt": "2026-03-14T04:05:31Z",
+      "metrics": {
+        "commits": 524,
+        "activeDays": 21,
+        "longestStreak": 21,
+        "additions": 177029,
+        "deletions": 47690,
+        "netLines": 129339,
+        "changedFiles": 3157,
+        "firstCommitAt": "2026-01-06T23:04:59Z",
+        "lastCommitAt": "2026-01-27T12:02:14Z",
+        "averageCommitsPerActiveDay": 24.95
+      },
+      "chronology": [
+        {
+          "date": "2026-01-07",
+          "commits": 38,
+          "additions": 6131,
+          "deletions": 1284
+        },
+        {
+          "date": "2026-01-08",
+          "commits": 23,
+          "additions": 1972,
+          "deletions": 1240
+        },
+        {
+          "date": "2026-01-09",
+          "commits": 43,
+          "additions": 5485,
+          "deletions": 5068
+        },
+        {
+          "date": "2026-01-10",
+          "commits": 20,
+          "additions": 4263,
+          "deletions": 1546
+        },
+        {
+          "date": "2026-01-11",
+          "commits": 22,
+          "additions": 7206,
+          "deletions": 1588
+        },
+        {
+          "date": "2026-01-12",
+          "commits": 7,
+          "additions": 1990,
+          "deletions": 276
+        },
+        {
+          "date": "2026-01-13",
+          "commits": 2,
+          "additions": 102,
+          "deletions": 46
+        },
+        {
+          "date": "2026-01-14",
+          "commits": 41,
+          "additions": 9465,
+          "deletions": 1662
+        },
+        {
+          "date": "2026-01-15",
+          "commits": 28,
+          "additions": 4439,
+          "deletions": 2562
+        },
+        {
+          "date": "2026-01-16",
+          "commits": 23,
+          "additions": 5851,
+          "deletions": 1350
+        },
+        {
+          "date": "2026-01-17",
+          "commits": 16,
+          "additions": 3135,
+          "deletions": 487
+        },
+        {
+          "date": "2026-01-18",
+          "commits": 26,
+          "additions": 3604,
+          "deletions": 713
+        },
+        {
+          "date": "2026-01-19",
+          "commits": 31,
+          "additions": 66436,
+          "deletions": 3824
+        },
+        {
+          "date": "2026-01-20",
+          "commits": 23,
+          "additions": 7229,
+          "deletions": 19582
+        },
+        {
+          "date": "2026-01-21",
+          "commits": 23,
+          "additions": 6147,
+          "deletions": 924
+        },
+        {
+          "date": "2026-01-22",
+          "commits": 22,
+          "additions": 7970,
+          "deletions": 1372
+        },
+        {
+          "date": "2026-01-23",
+          "commits": 33,
+          "additions": 7544,
+          "deletions": 803
+        },
+        {
+          "date": "2026-01-24",
+          "commits": 18,
+          "additions": 4001,
+          "deletions": 427
+        },
+        {
+          "date": "2026-01-25",
+          "commits": 22,
+          "additions": 5484,
+          "deletions": 604
+        },
+        {
+          "date": "2026-01-26",
+          "commits": 46,
+          "additions": 16611,
+          "deletions": 1706
+        },
+        {
+          "date": "2026-01-27",
+          "commits": 17,
+          "additions": 1964,
+          "deletions": 626
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-01",
+          "commits": 524,
+          "additions": 177029,
+          "deletions": 47690,
+          "activeDays": 21
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 84,
+          "additions": 85037,
+          "deletions": 5806
+        },
+        {
+          "weekday": "Tue",
+          "commits": 42,
+          "additions": 9295,
+          "deletions": 20254
+        },
+        {
+          "weekday": "Wed",
+          "commits": 102,
+          "additions": 21743,
+          "deletions": 3870
+        },
+        {
+          "weekday": "Thu",
+          "commits": 73,
+          "additions": 14381,
+          "deletions": 5174
+        },
+        {
+          "weekday": "Fri",
+          "commits": 99,
+          "additions": 18880,
+          "deletions": 7221
+        },
+        {
+          "weekday": "Sat",
+          "commits": 54,
+          "additions": 11399,
+          "deletions": 2460
+        },
+        {
+          "weekday": "Sun",
+          "commits": 70,
+          "additions": 16294,
+          "deletions": 2905
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 29,
+          "additions": 6647,
+          "deletions": 1688
+        },
+        {
+          "hour": 1,
+          "commits": 22,
+          "additions": 9854,
+          "deletions": 15091
+        },
+        {
+          "hour": 2,
+          "commits": 9,
+          "additions": 3306,
+          "deletions": 598
+        },
+        {
+          "hour": 3,
+          "commits": 13,
+          "additions": 6868,
+          "deletions": 1107
+        },
+        {
+          "hour": 4,
+          "commits": 4,
+          "additions": 966,
+          "deletions": 132
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 7,
+          "additions": 1328,
+          "deletions": 462
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 7,
+          "additions": 2588,
+          "deletions": 246
+        },
+        {
+          "hour": 9,
+          "commits": 5,
+          "additions": 1256,
+          "deletions": 621
+        },
+        {
+          "hour": 10,
+          "commits": 15,
+          "additions": 2841,
+          "deletions": 315
+        },
+        {
+          "hour": 11,
+          "commits": 27,
+          "additions": 8485,
+          "deletions": 4032
+        },
+        {
+          "hour": 12,
+          "commits": 32,
+          "additions": 6724,
+          "deletions": 1420
+        },
+        {
+          "hour": 13,
+          "commits": 49,
+          "additions": 45848,
+          "deletions": 2514
+        },
+        {
+          "hour": 14,
+          "commits": 30,
+          "additions": 11388,
+          "deletions": 1749
+        },
+        {
+          "hour": 15,
+          "commits": 24,
+          "additions": 3135,
+          "deletions": 945
+        },
+        {
+          "hour": 16,
+          "commits": 26,
+          "additions": 3697,
+          "deletions": 703
+        },
+        {
+          "hour": 17,
+          "commits": 26,
+          "additions": 4401,
+          "deletions": 1104
+        },
+        {
+          "hour": 18,
+          "commits": 28,
+          "additions": 5557,
+          "deletions": 4314
+        },
+        {
+          "hour": 19,
+          "commits": 20,
+          "additions": 3256,
+          "deletions": 589
+        },
+        {
+          "hour": 20,
+          "commits": 24,
+          "additions": 4547,
+          "deletions": 1675
+        },
+        {
+          "hour": 21,
+          "commits": 43,
+          "additions": 23436,
+          "deletions": 1734
+        },
+        {
+          "hour": 22,
+          "commits": 41,
+          "additions": 13463,
+          "deletions": 4525
+        },
+        {
+          "hour": 23,
+          "commits": 43,
+          "additions": 7438,
+          "deletions": 2126
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 2041526,
+          "ratio": 0.9914170551670551,
+          "estimatedWeightedLines": 222790
+        },
+        {
+          "name": "MDX",
+          "color": "#fcb32c",
+          "bytes": 10207,
+          "ratio": 0.004956779331779332,
+          "estimatedWeightedLines": 1114
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 6440,
+          "ratio": 0.0031274281274281273,
+          "estimatedWeightedLines": 703
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 1027,
+          "ratio": 0.0004987373737373737,
+          "estimatedWeightedLines": 112
+        }
+      ],
+      "workflows": {
+        "total": 374,
+        "success": 198,
+        "failure": 176,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [
+          {
+            "month": "2026-01",
+            "count": 285
+          },
+          {
+            "month": "2026-02",
+            "count": 77
+          },
+          {
+            "month": "2026-03",
+            "count": 12
+          }
+        ],
+        "byEvent": [
+          {
+            "event": "push",
+            "count": 370
+          },
+          {
+            "event": "workflow_dispatch",
+            "count": 3
+          },
+          {
+            "event": "pull_request",
+            "count": 1
+          }
+        ],
+        "byWorkflow": [
+          {
+            "workflow": "ci",
+            "count": 243
+          },
+          {
+            "workflow": "release",
+            "count": 114
+          },
+          {
+            "workflow": "backmerge-main-to-develop",
+            "count": 4
+          },
+          {
+            "workflow": ".github/workflows/promotion.yml",
+            "count": 4
+          },
+          {
+            "workflow": ".github/workflows/backmerge.yml",
+            "count": 4
+          },
+          {
+            "workflow": ".github/workflows/release.yml",
+            "count": 2
+          },
+          {
+            "workflow": "release-train (develop -> main -> npm -> develop)",
+            "count": 1
+          },
+          {
+            "workflow": "promotion-develop-to-main",
+            "count": 1
+          },
+          {
+            "workflow": "validate-actions-yaml",
+            "count": 1
+          }
+        ]
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden-com/deksden-com",
+      "owner": "deksden-com",
+      "name": "deksden-com",
+      "displayName": "deksden-com",
+      "visibility": "public",
+      "isPrivate": false,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/deksden-com",
+      "description": "deksden.com site",
+      "homepageUrl": "https://deksden-com.vercel.app",
+      "repoPath": "/Users/deksden/Documents/_Projects/deksden-com",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-02-05T20:35:52Z",
+      "updatedAt": "2026-02-28T11:15:35Z",
+      "pushedAt": "2026-03-01T09:59:58Z",
+      "metrics": {
+        "commits": 21,
+        "activeDays": 3,
+        "longestStreak": 2,
+        "additions": 12089,
+        "deletions": 251,
+        "netLines": 11838,
+        "changedFiles": 114,
+        "firstCommitAt": "2026-02-05T20:35:53Z",
+        "lastCommitAt": "2026-02-28T11:15:19Z",
+        "averageCommitsPerActiveDay": 7
+      },
+      "chronology": [
+        {
+          "date": "2026-02-05",
+          "commits": 1,
+          "additions": 59,
+          "deletions": 0
+        },
+        {
+          "date": "2026-02-27",
+          "commits": 7,
+          "additions": 10184,
+          "deletions": 160
+        },
+        {
+          "date": "2026-02-28",
+          "commits": 13,
+          "additions": 1846,
+          "deletions": 91
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-02",
+          "commits": 21,
+          "additions": 12089,
+          "deletions": 251,
+          "activeDays": 3
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 1,
+          "additions": 59,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 7,
+          "additions": 10184,
+          "deletions": 160
+        },
+        {
+          "weekday": "Sat",
+          "commits": 13,
+          "additions": 1846,
+          "deletions": 91
+        },
+        {
+          "weekday": "Sun",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 3,
+          "additions": 9043,
+          "deletions": 1
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 9,
+          "commits": 4,
+          "additions": 1176,
+          "deletions": 29
+        },
+        {
+          "hour": 10,
+          "commits": 3,
+          "additions": 1235,
+          "deletions": 94
+        },
+        {
+          "hour": 11,
+          "commits": 4,
+          "additions": 174,
+          "deletions": 56
+        },
+        {
+          "hour": 12,
+          "commits": 5,
+          "additions": 347,
+          "deletions": 66
+        },
+        {
+          "hour": 13,
+          "commits": 1,
+          "additions": 55,
+          "deletions": 5
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 1,
+          "additions": 59,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 69276,
+          "ratio": 0.80782685759597,
+          "estimatedWeightedLines": 9969
+        },
+        {
+          "name": "MDX",
+          "color": "#fcb32c",
+          "bytes": 10730,
+          "ratio": 0.12512244041233267,
+          "estimatedWeightedLines": 1544
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 5448,
+          "ratio": 0.06352908251317692,
+          "estimatedWeightedLines": 784
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 302,
+          "ratio": 0.0035216194785204534,
+          "estimatedWeightedLines": 43
+        }
+      ],
+      "workflows": {
+        "total": 1,
+        "success": 0,
+        "failure": 1,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [
+          {
+            "month": "2026-03",
+            "count": 1
+          }
+        ],
+        "byEvent": [
+          {
+            "event": "push",
+            "count": 1
+          }
+        ],
+        "byWorkflow": [
+          {
+            "workflow": "Deploy beta (Vercel)",
+            "count": 1
+          }
+        ]
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden-com/feedback-360",
+      "owner": "deksden-com",
+      "name": "feedback-360",
+      "displayName": "feedback-360",
+      "visibility": "public",
+      "isPrivate": false,
+      "isArchived": false,
+      "url": "https://github.com/deksden-com/feedback-360",
+      "description": null,
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/feedback-360",
+      "stars": 16,
+      "forks": 9,
+      "createdAt": "2026-03-03T18:11:38Z",
+      "updatedAt": "2026-03-13T15:23:07Z",
+      "pushedAt": "2026-03-09T18:52:59Z",
+      "metrics": {
+        "commits": 12,
+        "activeDays": 2,
+        "longestStreak": 2,
+        "additions": 8005,
+        "deletions": 19,
+        "netLines": 7986,
+        "changedFiles": 234,
+        "firstCommitAt": "2026-03-03T18:11:39Z",
+        "lastCommitAt": "2026-03-03T22:32:17Z",
+        "averageCommitsPerActiveDay": 6
+      },
+      "chronology": [
+        {
+          "date": "2026-03-03",
+          "commits": 9,
+          "additions": 5294,
+          "deletions": 1
+        },
+        {
+          "date": "2026-03-04",
+          "commits": 3,
+          "additions": 2711,
+          "deletions": 18
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-03",
+          "commits": 12,
+          "additions": 8005,
+          "deletions": 19,
+          "activeDays": 2
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 9,
+          "additions": 5294,
+          "deletions": 1
+        },
+        {
+          "weekday": "Wed",
+          "commits": 3,
+          "additions": 2711,
+          "deletions": 18
+        },
+        {
+          "weekday": "Thu",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sun",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 3,
+          "additions": 2711,
+          "deletions": 18
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 9,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 10,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 1,
+          "additions": 140,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 8,
+          "additions": 5154,
+          "deletions": 1
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 9989,
+          "ratio": 1,
+          "estimatedWeightedLines": 8024
+        }
+      ],
+      "workflows": {
+        "total": 315,
+        "success": 294,
+        "failure": 21,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [
+          {
+            "month": "2026-03",
+            "count": 315
+          }
+        ],
+        "byEvent": [
+          {
+            "event": "push",
+            "count": 233
+          },
+          {
+            "event": "pull_request",
+            "count": 79
+          },
+          {
+            "event": "workflow_dispatch",
+            "count": 3
+          }
+        ],
+        "byWorkflow": [
+          {
+            "workflow": "CI",
+            "count": 275
+          },
+          {
+            "workflow": "Beta Smoke",
+            "count": 40
+          }
+        ]
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden/ai-kod",
+      "owner": "deksden",
+      "name": "ai-kod",
+      "displayName": "ai-kod",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden/ai-kod",
+      "description": "ai kodder",
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/ai-kod",
+      "stars": 1,
+      "forks": 0,
+      "createdAt": "2025-08-14T18:55:53Z",
+      "updatedAt": "2026-01-19T13:00:54Z",
+      "pushedAt": "2026-01-19T13:00:50Z",
+      "metrics": {
+        "commits": 530,
+        "activeDays": 19,
+        "longestStreak": 19,
+        "additions": 103385,
+        "deletions": 76116,
+        "netLines": 27269,
+        "changedFiles": 3469,
+        "firstCommitAt": "2025-12-31T22:05:46Z",
+        "lastCommitAt": "2026-01-19T13:00:48Z",
+        "averageCommitsPerActiveDay": 27.89
+      },
+      "chronology": [
+        {
+          "date": "2026-01-01",
+          "commits": 13,
+          "additions": 4821,
+          "deletions": 2124
+        },
+        {
+          "date": "2026-01-02",
+          "commits": 13,
+          "additions": 5151,
+          "deletions": 11097
+        },
+        {
+          "date": "2026-01-03",
+          "commits": 19,
+          "additions": 4620,
+          "deletions": 557
+        },
+        {
+          "date": "2026-01-04",
+          "commits": 14,
+          "additions": 1907,
+          "deletions": 230
+        },
+        {
+          "date": "2026-01-05",
+          "commits": 29,
+          "additions": 6317,
+          "deletions": 1205
+        },
+        {
+          "date": "2026-01-06",
+          "commits": 33,
+          "additions": 8970,
+          "deletions": 3570
+        },
+        {
+          "date": "2026-01-07",
+          "commits": 48,
+          "additions": 7053,
+          "deletions": 1371
+        },
+        {
+          "date": "2026-01-08",
+          "commits": 27,
+          "additions": 3059,
+          "deletions": 1805
+        },
+        {
+          "date": "2026-01-09",
+          "commits": 56,
+          "additions": 7596,
+          "deletions": 5306
+        },
+        {
+          "date": "2026-01-10",
+          "commits": 33,
+          "additions": 8523,
+          "deletions": 1724
+        },
+        {
+          "date": "2026-01-11",
+          "commits": 46,
+          "additions": 10877,
+          "deletions": 2029
+        },
+        {
+          "date": "2026-01-12",
+          "commits": 23,
+          "additions": 4479,
+          "deletions": 1822
+        },
+        {
+          "date": "2026-01-13",
+          "commits": 2,
+          "additions": 102,
+          "deletions": 46
+        },
+        {
+          "date": "2026-01-14",
+          "commits": 47,
+          "additions": 10258,
+          "deletions": 1688
+        },
+        {
+          "date": "2026-01-15",
+          "commits": 33,
+          "additions": 4937,
+          "deletions": 2596
+        },
+        {
+          "date": "2026-01-16",
+          "commits": 31,
+          "additions": 6566,
+          "deletions": 1401
+        },
+        {
+          "date": "2026-01-17",
+          "commits": 23,
+          "additions": 3752,
+          "deletions": 508
+        },
+        {
+          "date": "2026-01-18",
+          "commits": 28,
+          "additions": 4172,
+          "deletions": 742
+        },
+        {
+          "date": "2026-01-19",
+          "commits": 12,
+          "additions": 225,
+          "deletions": 36295
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-01",
+          "commits": 530,
+          "additions": 103385,
+          "deletions": 76116,
+          "activeDays": 19
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 64,
+          "additions": 11021,
+          "deletions": 39322
+        },
+        {
+          "weekday": "Tue",
+          "commits": 35,
+          "additions": 9072,
+          "deletions": 3616
+        },
+        {
+          "weekday": "Wed",
+          "commits": 95,
+          "additions": 17311,
+          "deletions": 3059
+        },
+        {
+          "weekday": "Thu",
+          "commits": 73,
+          "additions": 12817,
+          "deletions": 6525
+        },
+        {
+          "weekday": "Fri",
+          "commits": 100,
+          "additions": 19313,
+          "deletions": 17804
+        },
+        {
+          "weekday": "Sat",
+          "commits": 75,
+          "additions": 16895,
+          "deletions": 2789
+        },
+        {
+          "weekday": "Sun",
+          "commits": 88,
+          "additions": 16956,
+          "deletions": 3001
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 26,
+          "additions": 4586,
+          "deletions": 1932
+        },
+        {
+          "hour": 1,
+          "commits": 14,
+          "additions": 3948,
+          "deletions": 246
+        },
+        {
+          "hour": 2,
+          "commits": 5,
+          "additions": 600,
+          "deletions": 194
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 1,
+          "additions": 3,
+          "deletions": 2
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 13,
+          "additions": 2269,
+          "deletions": 793
+        },
+        {
+          "hour": 7,
+          "commits": 12,
+          "additions": 3500,
+          "deletions": 715
+        },
+        {
+          "hour": 8,
+          "commits": 14,
+          "additions": 1732,
+          "deletions": 739
+        },
+        {
+          "hour": 9,
+          "commits": 26,
+          "additions": 3138,
+          "deletions": 1524
+        },
+        {
+          "hour": 10,
+          "commits": 11,
+          "additions": 7740,
+          "deletions": 11092
+        },
+        {
+          "hour": 11,
+          "commits": 28,
+          "additions": 9444,
+          "deletions": 4142
+        },
+        {
+          "hour": 12,
+          "commits": 25,
+          "additions": 4495,
+          "deletions": 1231
+        },
+        {
+          "hour": 13,
+          "commits": 40,
+          "additions": 9342,
+          "deletions": 2160
+        },
+        {
+          "hour": 14,
+          "commits": 34,
+          "additions": 2771,
+          "deletions": 37172
+        },
+        {
+          "hour": 15,
+          "commits": 16,
+          "additions": 1781,
+          "deletions": 761
+        },
+        {
+          "hour": 16,
+          "commits": 26,
+          "additions": 4254,
+          "deletions": 944
+        },
+        {
+          "hour": 17,
+          "commits": 37,
+          "additions": 5899,
+          "deletions": 1772
+        },
+        {
+          "hour": 18,
+          "commits": 33,
+          "additions": 5732,
+          "deletions": 1252
+        },
+        {
+          "hour": 19,
+          "commits": 28,
+          "additions": 7169,
+          "deletions": 1993
+        },
+        {
+          "hour": 20,
+          "commits": 26,
+          "additions": 4901,
+          "deletions": 860
+        },
+        {
+          "hour": 21,
+          "commits": 44,
+          "additions": 6653,
+          "deletions": 1871
+        },
+        {
+          "hour": 22,
+          "commits": 37,
+          "additions": 8945,
+          "deletions": 1837
+        },
+        {
+          "hour": 23,
+          "commits": 34,
+          "additions": 4483,
+          "deletions": 2884
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 6309665,
+          "ratio": 0.9761412834541456,
+          "estimatedWeightedLines": 175218
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 121763,
+          "ratio": 0.01883743290606191,
+          "estimatedWeightedLines": 3381
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 32457,
+          "ratio": 0.005021283639792477,
+          "estimatedWeightedLines": 901
+        }
+      ],
+      "workflows": {
+        "total": 276,
+        "success": 213,
+        "failure": 62,
+        "cancelled": 1,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [
+          {
+            "month": "2025-12",
+            "count": 13
+          },
+          {
+            "month": "2026-01",
+            "count": 263
+          }
+        ],
+        "byEvent": [
+          {
+            "event": "push",
+            "count": 276
+          }
+        ],
+        "byWorkflow": [
+          {
+            "workflow": "Release",
+            "count": 276
+          }
+        ]
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden/sa-biz-personabook",
+      "owner": "deksden",
+      "name": "sa-biz-personabook",
+      "displayName": "sa-biz-personabook",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden/sa-biz-personabook",
+      "description": "PERSONA book  biz profile",
+      "homepageUrl": null,
+      "repoPath": "/Users/deksden/Documents/_Projects/sa-biz-personabook",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2026-03-19T11:57:55Z",
+      "updatedAt": "2026-03-20T18:07:47Z",
+      "pushedAt": "2026-03-20T18:07:43Z",
+      "metrics": {
+        "commits": 11,
+        "activeDays": 2,
+        "longestStreak": 2,
+        "additions": 533,
+        "deletions": 12,
+        "netLines": 521,
+        "changedFiles": 38,
+        "firstCommitAt": "2026-03-19T11:57:55Z",
+        "lastCommitAt": "2026-03-20T18:07:31Z",
+        "averageCommitsPerActiveDay": 5.5
+      },
+      "chronology": [
+        {
+          "date": "2026-03-19",
+          "commits": 3,
+          "additions": 491,
+          "deletions": 2
+        },
+        {
+          "date": "2026-03-20",
+          "commits": 8,
+          "additions": 42,
+          "deletions": 10
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-03",
+          "commits": 11,
+          "additions": 533,
+          "deletions": 12,
+          "activeDays": 2
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 3,
+          "additions": 491,
+          "deletions": 2
+        },
+        {
+          "weekday": "Fri",
+          "commits": 8,
+          "additions": 42,
+          "deletions": 10
+        },
+        {
+          "weekday": "Sat",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sun",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 1,
+          "additions": 2,
+          "deletions": 2
+        },
+        {
+          "hour": 9,
+          "commits": 3,
+          "additions": 5,
+          "deletions": 3
+        },
+        {
+          "hour": 10,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 1,
+          "additions": 2,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 2,
+          "additions": 17,
+          "deletions": 2
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 2,
+          "additions": 488,
+          "deletions": 2
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 2,
+          "additions": 19,
+          "deletions": 3
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "languages": [],
+      "workflows": {
+        "total": 0,
+        "success": 0,
+        "failure": 0,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [],
+        "byEvent": [],
+        "byWorkflow": []
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden/seller-agent",
+      "owner": "deksden",
+      "name": "seller-agent",
+      "displayName": "seller-agent",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden/seller-agent",
+      "description": "Seller Agent project",
+      "homepageUrl": "https://selleragent.pro",
+      "repoPath": "/Users/deksden/Documents/_Projects/sales-agent",
+      "stars": 1,
+      "forks": 0,
+      "createdAt": "2026-03-14T11:10:30Z",
+      "updatedAt": "2026-03-19T11:55:29Z",
+      "pushedAt": "2026-03-20T18:21:53Z",
+      "metrics": {
+        "commits": 37,
+        "activeDays": 3,
+        "longestStreak": 2,
+        "additions": 198079,
+        "deletions": 3194,
+        "netLines": 194885,
+        "changedFiles": 1104,
+        "firstCommitAt": "2026-03-14T11:10:30Z",
+        "lastCommitAt": "2026-03-17T06:17:22Z",
+        "averageCommitsPerActiveDay": 12.33
+      },
+      "chronology": [
+        {
+          "date": "2026-03-14",
+          "commits": 1,
+          "additions": 141,
+          "deletions": 0
+        },
+        {
+          "date": "2026-03-16",
+          "commits": 27,
+          "additions": 184576,
+          "deletions": 1621
+        },
+        {
+          "date": "2026-03-17",
+          "commits": 9,
+          "additions": 13362,
+          "deletions": 1573
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-03",
+          "commits": 37,
+          "additions": 198079,
+          "deletions": 3194,
+          "activeDays": 3
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 27,
+          "additions": 184576,
+          "deletions": 1621
+        },
+        {
+          "weekday": "Tue",
+          "commits": 9,
+          "additions": 13362,
+          "deletions": 1573
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Fri",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 1,
+          "additions": 141,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sun",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 2,
+          "additions": 3960,
+          "deletions": 210
+        },
+        {
+          "hour": 6,
+          "commits": 1,
+          "additions": 52,
+          "deletions": 29
+        },
+        {
+          "hour": 7,
+          "commits": 4,
+          "additions": 7026,
+          "deletions": 1056
+        },
+        {
+          "hour": 8,
+          "commits": 2,
+          "additions": 2324,
+          "deletions": 278
+        },
+        {
+          "hour": 9,
+          "commits": 1,
+          "additions": 145002,
+          "deletions": 1
+        },
+        {
+          "hour": 10,
+          "commits": 3,
+          "additions": 3495,
+          "deletions": 142
+        },
+        {
+          "hour": 11,
+          "commits": 2,
+          "additions": 3207,
+          "deletions": 76
+        },
+        {
+          "hour": 12,
+          "commits": 2,
+          "additions": 4056,
+          "deletions": 124
+        },
+        {
+          "hour": 13,
+          "commits": 1,
+          "additions": 141,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 2,
+          "additions": 4588,
+          "deletions": 248
+        },
+        {
+          "hour": 15,
+          "commits": 2,
+          "additions": 342,
+          "deletions": 66
+        },
+        {
+          "hour": 16,
+          "commits": 1,
+          "additions": 432,
+          "deletions": 40
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 1,
+          "additions": 2769,
+          "deletions": 250
+        },
+        {
+          "hour": 20,
+          "commits": 2,
+          "additions": 304,
+          "deletions": 18
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 3,
+          "additions": 8821,
+          "deletions": 144
+        },
+        {
+          "hour": 23,
+          "commits": 8,
+          "additions": 11560,
+          "deletions": 512
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 657787,
+          "ratio": 0.7708932248420505,
+          "estimatedWeightedLines": 155160
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 169440,
+          "ratio": 0.1985751436517247,
+          "estimatedWeightedLines": 39968
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 26052,
+          "ratio": 0.030531631506224812,
+          "estimatedWeightedLines": 6145
+        }
+      ],
+      "workflows": {
+        "total": 108,
+        "success": 86,
+        "failure": 22,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [
+          {
+            "month": "2026-03",
+            "count": 108
+          }
+        ],
+        "byEvent": [
+          {
+            "event": "push",
+            "count": 105
+          },
+          {
+            "event": "schedule",
+            "count": 3
+          }
+        ],
+        "byWorkflow": [
+          {
+            "workflow": "Verification",
+            "count": 85
+          },
+          {
+            "workflow": "Release Packages",
+            "count": 23
+          }
+        ]
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    },
+    {
+      "id": "deksden/welcome-craft-next",
+      "owner": "deksden",
+      "name": "welcome-craft-next",
+      "displayName": "welcome-craft-next",
+      "visibility": "private",
+      "isPrivate": true,
+      "isArchived": false,
+      "url": "https://github.com/deksden/welcome-craft-next",
+      "description": "AI powered page builder for HR department for creating onboarding pages",
+      "homepageUrl": "https://welcome-onboard.ru",
+      "repoPath": "/Users/deksden/Documents/_Projects/welcome-craft-next",
+      "stars": 0,
+      "forks": 0,
+      "createdAt": "2025-07-08T20:12:53Z",
+      "updatedAt": "2026-02-05T21:44:04Z",
+      "pushedAt": "2026-02-05T21:44:56Z",
+      "metrics": {
+        "commits": 1,
+        "activeDays": 1,
+        "longestStreak": 1,
+        "additions": 27,
+        "deletions": 29,
+        "netLines": -2,
+        "changedFiles": 2,
+        "firstCommitAt": "2026-02-05T21:43:59Z",
+        "lastCommitAt": "2026-02-05T21:43:59Z",
+        "averageCommitsPerActiveDay": 1
+      },
+      "chronology": [
+        {
+          "date": "2026-02-05",
+          "commits": 1,
+          "additions": 27,
+          "deletions": 29
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-02",
+          "commits": 1,
+          "additions": 27,
+          "deletions": 29,
+          "activeDays": 1
+        }
+      ],
+      "weekdays": [
+        {
+          "weekday": "Mon",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Tue",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Wed",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Thu",
+          "commits": 1,
+          "additions": 27,
+          "deletions": 29
+        },
+        {
+          "weekday": "Fri",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sat",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "weekday": "Sun",
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        }
+      ],
+      "hours": [
+        {
+          "hour": 0,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 1,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 2,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 3,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 4,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 5,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 6,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 7,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 8,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 9,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 10,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 11,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 12,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 13,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 14,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 15,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 16,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 17,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 18,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 19,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 20,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 21,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 22,
+          "commits": 0,
+          "additions": 0,
+          "deletions": 0
+        },
+        {
+          "hour": 23,
+          "commits": 1,
+          "additions": 27,
+          "deletions": 29
+        }
+      ],
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 1826406,
+          "ratio": 0.9781177400541755,
+          "estimatedWeightedLines": 55
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 25196,
+          "ratio": 0.01349352475758676,
+          "estimatedWeightedLines": 1
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "bytes": 8138,
+          "ratio": 0.0043582435496603055,
+          "estimatedWeightedLines": 0
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 4919,
+          "ratio": 0.002634332762445201,
+          "estimatedWeightedLines": 0
+        },
+        {
+          "name": "PLpgSQL",
+          "color": "#336790",
+          "bytes": 2607,
+          "ratio": 0.0013961588761322705,
+          "estimatedWeightedLines": 0
+        }
+      ],
+      "workflows": {
+        "total": 0,
+        "success": 0,
+        "failure": 0,
+        "cancelled": 0,
+        "skipped": 0,
+        "other": 0,
+        "unavailable": false,
+        "byMonth": [],
+        "byEvent": [],
+        "byWorkflow": []
+      },
+      "source": {
+        "timezone": "Europe/Kaliningrad",
+        "usedLocalGit": true
+      }
+    }
+  ]
+}
