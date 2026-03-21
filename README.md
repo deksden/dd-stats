@@ -29,6 +29,8 @@ npm run serve
 
 Open `http://localhost:4173`.
 
+`npm run serve` uses the built-in Node static server from `scripts/serve.mjs`.
+
 For a full refresh of data plus dashboard:
 
 ```bash
