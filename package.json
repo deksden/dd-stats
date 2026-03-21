@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "cdx": "codex resume dd-stats --yolo",
     "collect": "node scripts/fetch-github-activity.mjs",
     "sqlite": "node scripts/export-activity-sqlite.mjs",
     "dashboard": "node scripts/build-dashboard.mjs",
